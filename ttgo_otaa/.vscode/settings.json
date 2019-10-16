@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/ed/.platformio/penv/bin:/home/ed/.platformio/penv:/home/ed/.local/bin:/home/ed/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/ed/.dotnet/tools:/home/ed/.dotnet/tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
